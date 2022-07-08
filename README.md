@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/pilatech/three-column-preview-card)
+- Solution URL: [here](https://github.com/pilatech/three-column-preview-card)
 - Live Site URL: [here](https://three-column-cards-by-pilate.netlify.app/)
 
 ## My process
